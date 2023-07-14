@@ -1,4 +1,4 @@
-package comportamentoDeMemoriaArraysListas.exercicio01;
+package D_comportamentoDeMemoriaArraysListas.exercicio01;
 /**
  * Faça um programa p ler um número inteiro N e a altura de N pessoas.
  * Armazene as N alturas em um vetor. Em seguida, mostre a altura média dessas pessoas
